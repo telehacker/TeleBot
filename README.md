@@ -21,7 +21,7 @@ For passionate readers 😂 the documentation can be found [here](https://xditya
 
 ## The Easier Way to install
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]([https://github.com/telehacker/TeleBot?tab=readme-ov-file](https://github.com/telehacker/TeleBot))
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]([[https://github.com/telehacker/TeleBot?tab=readme-ov-file](https://github.com/telehacker/TeleBot)](https://github.com/telehacker/TeleBot))
 
 ## Support
 Join [TeleBot Support group](https://t.me/TeleBotSupport) for updates and new plugin suggestions.

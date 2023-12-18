@@ -9,7 +9,7 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/telehacker/TeleBot",
+ "repository": "https://github.com/telehacker/TeleBot?tab=readme-ov-file",
  "website": "https://xditya.gitbook.io/telebot/",
  "success_url": "https://t.me/TeleBotHelp/13",
  "stack": "container",
